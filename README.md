@@ -26,4 +26,5 @@ Technical Implementation:
    * Frontend Framework: Use a frontend framework like React, Vue.js, or Angular to build an interactive and user-friendly dashboard.
    * Data Visualization: Utilize charting libraries (e.g., Chart.js, D3.js) to create informative visualizations of user data.
    * User Interface Design: Design a clean and intuitive dashboard interface for easy navigation and data exploration.
-   * 
+  
+   * Screenshot 2025-01-04 153407](https://github.com/user-attachments/assets/76035852-8e74-4db7-8bfd-8a47a68e22d9)
